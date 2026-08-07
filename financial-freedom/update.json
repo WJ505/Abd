@@ -1,7 +1,7 @@
 {
   "version": "1.6.4",
-  "installerUrl": "https://drive.usercontent.google.com/download?id=1frg16CzGDmxHKUbu6SYS2FGHuRJ_h2w3&export=download&confirm=t",
-  "sha256": "8A38D9CC30AE1B1D62A9072D625676A02AC545A0998B6513BEB9192B6EEAA855",
+  "installerUrl": "https://raw.githubusercontent.com/WJ505/Abd/main/financial-freedom/FinancialFreedomUpdateBootstrapper.exe",
+  "sha256": "210B0237FF2176D90389255C70999FDC67487629274276724F1DF94BE31887B3",
   "mandatory": false,
-  "notes": "إصلاح مؤشر نسبة الالتزام بالخطة بإظهار القوس العلوي كاملًا دون التأثير على الخلايا السفلية، مع تحسينات RTL والمحاذاة واستمرار دعم التحديث من داخل التطبيق."
+  "notes": "إصلاح مؤشر نسبة الالتزام بالخطة بإظهار القوس العلوي كاملًا دون التأثير على الخلايا السفلية، مع تحسينات RTL والمحاذاة. تم تحسين مسار التحديث الداخلي ليتعامل تلقائيًا مع صفحة تأكيد تنزيل Google Drive."
 }

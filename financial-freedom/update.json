@@ -1,7 +1,7 @@
 {
-  "version": "1.6.3",
-  "installerUrl": "",
-  "sha256": "",
+  "version": "1.6.4",
+  "installerUrl": "https://drive.usercontent.google.com/download?id=1frg16CzGDmxHKUbu6SYS2FGHuRJ_h2w3&export=download&confirm=t",
+  "sha256": "8A38D9CC30AE1B1D62A9072D625676A02AC545A0998B6513BEB9192B6EEAA855",
   "mandatory": false,
-  "notes": "تحسين دعم اللغة العربية من اليمين إلى اليسار، وضبط البطاقات العلوية ومؤشر الالتزام بالخطة، وإضافة التحديث من داخل التطبيق."
+  "notes": "إصلاح مؤشر نسبة الالتزام بالخطة بإظهار القوس العلوي كاملًا دون التأثير على الخلايا السفلية، مع تحسينات RTL والمحاذاة واستمرار دعم التحديث من داخل التطبيق."
 }

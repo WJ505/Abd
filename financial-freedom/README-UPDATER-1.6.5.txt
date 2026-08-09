@@ -1,0 +1,1 @@
+Immutable updater distribution for Financial Freedom 1.6.5

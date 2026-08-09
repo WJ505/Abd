@@ -1,6 +1,6 @@
 {
   "version": "1.6.5",
-  "installerUrl": "https://raw.githubusercontent.com/WJ505/Abd/e855c62755aa859c9feb48c679b6d45f59e9a969/financial-freedom/FinancialFreedomUpdateBootstrapper.exe",
+  "installerUrl": "https://raw.githubusercontent.com/WJ505/Abd/4b6925d9f1f839b603edf526192b82397798de5e/financial-freedom/ff-update-165/FinancialFreedomUpdateBootstrapper-1.6.5.exe",
   "sha256": "5B133E9A404583F72AB493B432D4D995009A10AA722A850D6C5C95289CA4AEE3",
   "mandatory": false,
   "notes": "إصلاح حالة الاتصال بالإنترنت لتصبح حقيقية ومتجددة تلقائيًا، وتحديث لوحة التحكم مباشرة أثناء تعديل المدخلات مع بقاء الحفظ النهائي عبر زر حفظ الإعدادات، مع اجتياز اختبار التفاعل الحي وفحص الواجهة."
